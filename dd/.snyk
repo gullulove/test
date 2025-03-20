@@ -1,2 +1,6 @@
 language-settings:
   python: "3.11"
+
+exclude:
+    global:
+             - ../requirements.txt
